@@ -1,6 +1,6 @@
 Name:		texlive-fundus-calligra
 Version:	26018
-Release:	1
+Release:	2
 Summary:	Support for the calligra font in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/calligra
