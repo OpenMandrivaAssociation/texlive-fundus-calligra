@@ -3,7 +3,7 @@ Version:	26018
 Release:	2
 Summary:	Support for the calligra font in LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/calligra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fundus/calligra
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fundus-calligra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fundus-calligra.doc.r%{version}.tar.xz
